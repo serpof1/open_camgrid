@@ -5,6 +5,8 @@ Visor de cámaras DVR/IP simple y liviano desarrollado en Python.
 Permite visualizar múltiples cámaras en grilla configurable utilizando RTSP, ideal para redes locales (LAN).
 
 
+![Preview](assets/grilla.png)
+
 ---
 
 ## 🚀 Características
