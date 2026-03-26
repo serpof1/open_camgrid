@@ -21,7 +21,15 @@ Permite visualizar múltiples cámaras en grilla configurable utilizando RTSP, i
 
 ## 🖥️ Capturas
 
-Faltan hacer, pero ya las voy a subir cuando este en mi red local
+### Ingreso
+![Ingreso](assets/main.png)
+
+### Configuración
+![Configuracion](assets/configuracion.png)
+
+### Vista de cámaras
+![Grilla](assets/grilla.png)
+
 
 ---
 
